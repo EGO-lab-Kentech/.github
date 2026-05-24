@@ -21,7 +21,7 @@ renewable integration, evolving electricity markets, and growing system
 uncertainty.
 
 - **Institution** · 소속: Korea Institute of Energy Technology (KENTECH)
-- **Principal Investigator** · 지도교수: Prof. Kim Jip (김지프 교수)
+- **Principal Investigator** · 지도교수: Prof. Kim Jip (김집 교수)
 - **Location** · 위치: Naju, Jeollanam-do, Republic of Korea
 
 ---
