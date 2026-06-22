@@ -1,75 +1,69 @@
-# EGO Lab — Electric Grid Optimization Lab
+<div align="center">
 
-**KENTECH** · Korea Institute of Energy Technology · 전력시스템 최적화 연구실
+# EGO Lab · Electric Grid Optimization Lab
 
-> Empowering the transition to sustainable power systems through modeling and algorithms.
-> 수리 모델링과 최적화 알고리즘으로 지속 가능한 전력 시스템 전환을 연구합니다.
+**KENTECH** — Korea Institute of Energy Technology · Naju, Republic of Korea
+전력시스템 최적화 연구실
+
+_Empowering the transition to sustainable power systems through modeling and algorithms._
+
+[**Lab site →**](https://egolab.kentech.ac.kr) &nbsp;·&nbsp;
+[Research](https://egolab.kentech.ac.kr/research/topics) &nbsp;·&nbsp;
+[Publications](https://egolab.kentech.ac.kr/research/publications) &nbsp;·&nbsp;
+[Open positions](https://egolab.kentech.ac.kr/open-positions) &nbsp;·&nbsp;
+[Contact](https://egolab.kentech.ac.kr/contact)
+
+</div>
+
+---
 
 We develop mathematical models and optimization algorithms for low-carbon power
 systems and energy-market design — from generation expansion planning to
-physics-aware operation of distributed energy resources.
+physics-aware operation of distributed energy resources, multi-energy coupling,
+and the decomposition methods that make these problems tractable.
 
-- **Principal Investigator** · 지도교수: Prof. Jip Kim (김집 교수)
-- **Institution** · 소속: KENTECH, Naju, Republic of Korea
-- **Lab website** · 랩 사이트: <https://egolab.kentech.ac.kr>
+저탄소 전력 시스템과 에너지 시장 설계를 위한 수리 모델링·최적화 알고리즘을 연구합니다.
+발전 설비 확장 계획, 분산 자원 기반 물리 인식 운영, 다중 에너지 시스템 연계, 그리고
+이러한 문제를 풀기 위한 분해 기법까지 다룹니다.
 
----
+**Principal Investigator** · Prof. Jip Kim (김집 교수) — <jipkim@kentech.ac.kr>
 
-## Research thrusts · 연구 주제
-
-- **Decentralized Power System Planning** — Siting & sizing of renewables/storage; local market design
-- **Physics-aware Operation** — Inertia-aware UC, resource adequacy with DERs
-- **Decision-making Tools for Energy System Planners** — Tri-level & equilibrium models for regulators
-- **Interoperable Multi-Energy Systems** — Power-to-hydrogen, power-to-heat, EV coordination
-- **Computations and Algorithms** — Stochastic/DRO, Benders, ADMM, learning-augmented solvers
-
-→ 전체 thrust와 출판물: [research/topics](https://egolab.kentech.ac.kr/research/topics) · [research/publications](https://egolab.kentech.ac.kr/research/publications)
+→ 전체 연구 주제와 출판물은 [랩 사이트](https://egolab.kentech.ac.kr)에서 확인하세요.
 
 ---
 
-## Featured · KPG 193 Test System
+### KPG 193 — Korean synthetic power grid
 
 An open synthetic Korean power grid for decarbonization studies — **193 buses,
 122 generators, 359 transmission lines**, with 8,760 hours of demand, weather,
-and renewable profiles.
+and renewable-output profiles. Maintained by the AGM Center at KENTECH.
 
-- Platform · 플랫폼: <https://agm.kentech.ac.kr> (AGM Center)
-- Code & data · 코드/데이터: [`agm-center/kpg-testgrid`](https://github.com/agm-center/kpg-testgrid)
-- Inquiries · 문의: `egolab.kpg@gmail.com`
+탈탄소 연구를 위한 한국형 가상 송전망 — 193 버스, 122 발전기, 359 송전선,
+8,760시간 수요·기상·재생에너지 프로파일. AGM Center에서 운영합니다.
 
----
-
-## Repositories · 저장소
-
-조직의 공개 저장소는 [위 목록](https://github.com/orgs/EGO-lab-Kentech/repositories)에서
-확인하실 수 있습니다. 주요 프로젝트:
-
-<!-- 공개 저장소가 늘어나면 아래 형식으로 추가:
-- [`repo-name`](https://github.com/EGO-lab-Kentech/repo-name) — one-line description
--->
-
-- [`Ego-Lab`](https://github.com/EGO-lab-Kentech/Ego-Lab) — Lab website source (React + Vite)
+|  |  |
+| --- | --- |
+| Platform · 플랫폼 | <https://agm.kentech.ac.kr> |
+| Code & data · 코드 / 데이터 | [`agm-center/kpg-testgrid`](https://github.com/agm-center/kpg-testgrid) |
+| Inquiries · 문의 | <egolab.kpg@gmail.com> |
 
 ---
 
-## Open positions · 모집
+### Join us · 함께 일해요
 
 We are recruiting **postdocs, graduate students, and undergraduate researchers**.
-Backgrounds in electrical engineering, applied math, and operations research are
-all welcome.
+Backgrounds in electrical engineering, applied math, and operations research
+are all welcome.
 
-전기공학·응용수학·산업공학 등 다양한 전공의 박사후연구원, 대학원생, 학부 연구생을 모집하고 있습니다.
+박사후연구원, 대학원생, 학부 연구생을 모집합니다. 전기공학·응용수학·산업공학 등
+다양한 전공을 환영합니다.
 
-문의: `jipkim@kentech.ac.kr`
-
----
-
-## Contact · 연락처
-
-- **General / PI** · 대표: [`jipkim@kentech.ac.kr`](mailto:jipkim@kentech.ac.kr)
-- **KPG 193 inquiries** · KPG 문의: [`egolab.kpg@gmail.com`](mailto:egolab.kpg@gmail.com)
-- **Address** · 주소: KENTECH, Zone B office #B421, 21 KENTECH-gil, Naju, South Jeolla 58330, Republic of Korea
+→ [Open positions](https://egolab.kentech.ac.kr/open-positions) · 또는 PI에게 직접 메일 주세요.
 
 ---
 
-<sub>© EGO Lab, KENTECH. Maintained via the [`EGO-lab-Kentech/.github`](https://github.com/EGO-lab-Kentech/.github) repository.</sub>
+<sub>
+KENTECH, Zone B office #B421, 21 KENTECH-gil, Naju, South Jeolla 58330, Republic of Korea
+· This organization profile is maintained at
+<a href="https://github.com/EGO-lab-Kentech/.github"><code>EGO-lab-Kentech/.github</code></a>.
+</sub>
