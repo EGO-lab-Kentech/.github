@@ -11,6 +11,7 @@ physics-aware operation of distributed energy resources.
 
 - **Principal Investigator** · 지도교수: Prof. Jip Kim (김집 교수)
 - **Institution** · 소속: KENTECH, Naju, Republic of Korea
+- **Lab website** · 랩 사이트: <https://egolab.kentech.ac.kr>
 
 ---
 
@@ -22,7 +23,7 @@ physics-aware operation of distributed energy resources.
 - **Interoperable Multi-Energy Systems** — Power-to-hydrogen, power-to-heat, EV coordination
 - **Computations and Algorithms** — Stochastic/DRO, Benders, ADMM, learning-augmented solvers
 
-자세한 내용은 랩 사이트를 참고하세요. _Lab website is in development._
+→ 전체 thrust와 출판물: [research/topics](https://egolab.kentech.ac.kr/research/topics) · [research/publications](https://egolab.kentech.ac.kr/research/publications)
 
 ---
 
@@ -32,7 +33,9 @@ An open synthetic Korean power grid for decarbonization studies — **193 buses,
 122 generators, 359 transmission lines**, with 8,760 hours of demand, weather,
 and renewable profiles.
 
-KPG 193 관련 문의: `egolab.kpg@gmail.com`
+- Platform · 플랫폼: <https://agm.kentech.ac.kr> (AGM Center)
+- Code & data · 코드/데이터: [`agm-center/kpg-testgrid`](https://github.com/agm-center/kpg-testgrid)
+- Inquiries · 문의: `egolab.kpg@gmail.com`
 
 ---
 
